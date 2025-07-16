@@ -103,7 +103,7 @@ roslaunch xarm7_moveit_config xarm7_moveit_gazebo.launch
 ---
 
 ## 📚 Συνολική Αναφορά
-1. [Γραπτή Αναφορά](/documentation/Γραπτή Αναφορά Εξαμηνιαία 1.pdf) - Πλήρης ανάλυση κινηματικού ελέγχου
+1. [Γραπτή Αναφορά](/documentation/%CE%93%CF%81%CE%B1%CF%80%CF%84%CE%AE%20%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC%20%CE%95%CE%BE%CE%B1%CE%BC%CE%B7%CE%BD%CE%B9%CE%B1%CE%AF%CE%B1%201.pdf) - Πλήρης ανάλυση κινηματικού ελέγχου
 2. [Παράρτημα](/documentation/Appendix-robotics_II-ros_and_redundant.pdf) - Οδηγίες ROS & εγκατάστασης
 
 **Ομάδα**:
